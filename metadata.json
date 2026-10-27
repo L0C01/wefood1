@@ -1,0 +1,6 @@
+{
+  "name": "WeFood - Surplus Food Rescue & Community Sharing",
+  "description": "Rescue delicious surplus bakery bags, grocery boxes, and homegrown mutual aid produce at up to 70% off while preventing food waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
